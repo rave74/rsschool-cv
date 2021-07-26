@@ -1,0 +1,32 @@
+body{
+    overflow: scroll;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: rgb(95, 100, 100);
+    color: rgb(255, 255, 255);
+    margin: 0 auto;
+    max-width: 1024px;
+}
+.header {
+  text-align: center;
+}
+.footer {
+    border-top: 2px solid blue;
+    width: 80%;
+  }
+  .logo {
+    width: 20%;
+    height: 100%;
+     display: inline-block;
+     }
+  .year {
+    margin-left: 70px;
+    width: 20%;
+    height: 100%;
+    display:inline-block;
+  }
+  .git {
+    margin-left: 150px;
+    width: 20%;
+    height: 100%;
+      display: inline-block;
+  }
